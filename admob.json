@@ -1,0 +1,32 @@
+{
+  "admob": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "ads": {
+      "banner": {
+        "enabled": true,
+        "unit_id": "ca-app-pub-3940256099942544/6300978111"
+      },
+      "interstitial": {
+        "enabled": true,
+        "unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "interval": 3
+      },
+      "rewarded": {
+        "enabled": true,
+        "unit_id": "ca-app-pub-3940256099942544/5224354917",
+        "reward": {
+          "type": "coins",
+          "amount": 50
+        }
+      },
+      "native": {
+        "enabled": false,
+        "unit_id": ""
+      },
+      "app_open": {
+        "enabled": true,
+        "unit_id": "ca-app-pub-3940256099942544/3419835294"
+      }
+    }
+  }
+}
