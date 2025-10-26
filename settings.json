@@ -1,6 +1,6 @@
 {
   "setup": {
-    "play_button": "false",
+    "play_button": "true",
     "home_sections": {
       "trending": "true",
       "popular_movies": "true",
